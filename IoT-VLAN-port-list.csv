@@ -1,0 +1,8 @@
+Ports / Range,Protocol,Port Description,Source
+51826-51827,TCP,HomeKit Comms.,
+5353,UDP,mDNS,
+8123,TCP,HomeAssistant,
+"1400, 3400, 3401, 3500",TCP,Sonos app control,https://support.sonos.com/s/article/688?language=en_US&utm_medium=firewall&utm_source=cr-care&utm_content=english-cr-care-firewall
+1900-1901,UDP,Sonos app control,https://support.sonos.com/s/article/688?language=en_US&utm_medium=firewall&utm_source=cr-care&utm_content=english-cr-care-firewall
+6969,UDP,Sonos setup,https://support.sonos.com/s/article/688?language=en_US&utm_medium=firewall&utm_source=cr-care&utm_content=english-cr-care-firewall
+32412-32414,UDP,Sonos control,https://en.community.sonos.com/advanced-setups-229000/changed-udp-tcp-ports-for-sonos-app-needed-after-update-to-s2-6842454
