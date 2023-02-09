@@ -7,3 +7,7 @@ Ports / Range,Protocol,Port Description,Source
 6969,UDP,Sonos setup,https://support.sonos.com/s/article/688?language=en_US&utm_medium=firewall&utm_source=cr-care&utm_content=english-cr-care-firewall
 32412-32414,UDP,Sonos control,https://en.community.sonos.com/advanced-setups-229000/changed-udp-tcp-ports-for-sonos-app-needed-after-update-to-s2-6842454
 49152,TCP,AirPlay Mirroring,https://support.airserver.com/support/solutions/articles/43000512423-what-ports-bonjour-services-are-used-by-airserver-universal-can-i-override-them-
+554,TCP/UDP,AirPlay,https://discussions.apple.com/thread/4849637
+3689,TCP,AirPlay,https://discussions.apple.com/thread/4849637
+49159,UDP,AirPlay,https://discussions.apple.com/thread/4849637
+49163,UDP,AirPlay,https://discussions.apple.com/thread/4849637
